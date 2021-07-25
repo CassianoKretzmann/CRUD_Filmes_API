@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-07-25T21:52:17.327425Z"
+    },
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2021-07-25T21:09:07.9882128Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Api_Crud_Filmes"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "8e163bbb-b7e2-45d4-bd62-21275440c9d7"
+    }
+  }
+}
